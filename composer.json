@@ -56,7 +56,11 @@
 					"wpackagist-plugin/*",
 					"wpackagist-theme/*"
 				]
-			}
+			},
+		"andykillen" : {
+			"type": "composer",
+			"url": "https://packages.grok.codes"
+		}
 	},
 	"autoload": {
         "classmap": [
